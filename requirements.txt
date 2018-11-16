@@ -1,0 +1,10 @@
+msgpack==0.5.6
+numpy==1.15.4
+pandas==0.23.4
+protobuf==3.6.1
+scikit-learn==0.20.0
+sentencepiece==0.1.5
+sklearn==0.0
+swifter==0.260
+tensorflow-gpu==1.11.0
+tqdm==4.28.1
