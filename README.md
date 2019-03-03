@@ -20,8 +20,8 @@ Now you have to build project.
 
 ### Preparing dataset
 ```
-python3 data_loader.py --dataset_file=../input/train.csv
-
+python3 data_loader.py --dataset_info_file=./data/train.csv --dataset_file=./data/train.msgp
+python3 data_loader.py --dataset_info_file=./data/test.csv --dataset_file=./data/test.msgp --test
 ```
 For more information use help: ```python3 data_loader.py --help```
 
