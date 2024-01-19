@@ -1,6 +1,6 @@
 # WallNet
 
-(Released a part of the BsideS Talk 2019: https://www.youtube.com/watch?v=C4yJR35tAhg)
+(Released a part of the BsideS Talk 2019: https://www.youtube.com/watch?v=C4yJR35tAhg. OSS project is not maintained)
 
 WallNet is an  bidirectional  recurrent  neuralnetwork  with  attention  mechanism  and  pooling  layers  and  pipeline  for Structured Query Language injections (SQLi) detection. To illustrate the application of this methodology, we will review in detail the implementa-tion of AI-based false-positive detection for a SQL injection. WallNet developed on [TensorFlow 1.11](https://github.com/tensorflow/tensorflow/releases/tag/v1.11.0) and Python3.6. 
 
